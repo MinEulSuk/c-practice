@@ -1,6 +1,17 @@
-c++first/c++easy*
-c++first/c++easy/*
-c++first/c++easy.sln
-c++first/x64/Debug
-.git
-.vs
+# Visual Studio가 생성하는 사용자별 설정 폴더
+.vs/
+
+# 빌드 결과물이 저장되는 폴더들 (프로젝트 내 어디에 있든 무시)
+**/x64/
+**/Debug/
+**/Release/
+
+# 기타 C++ 프로젝트 빌드 파일
+*.obj
+*.pdb
+*.ilk
+*.exe
+*.dll
+*.sln.docstates
+*.suo
+*.user

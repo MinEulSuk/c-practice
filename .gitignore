@@ -15,3 +15,6 @@
 *.sln.docstates
 *.suo
 *.user
+*.sln
+*.vcxproj
+*.filters

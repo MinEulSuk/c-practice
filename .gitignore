@@ -1,5 +1,4 @@
-c++easy.vcxproj
-c++easy.vcxproj.filters
-c++easy.vcxproj.user
+c++easy*
+x64/Debug
 .git
 .vs

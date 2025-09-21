@@ -1,4 +1,6 @@
 c++first/c++easy*
-x64/Debug
+c++first/c++easy/*
+c++first/c++easy.sln
+c++first/x64/Debug
 .git
 .vs
